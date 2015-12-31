@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=Alphabet(IWord)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Alphabet\n
+comment1.params=obj
+comment1.target=void\ registerValidInputObserver(IValidInputObserver)
+comment10.params=
+comment10.target=java.lang.String\ getInputChar()
+comment2.params=obj
+comment2.target=void\ registerInValidInputObserver(IInValidInputObserver)
+comment3.params=obj
+comment3.target=void\ removeValidInputObserver(IValidInputObserver)
+comment4.params=obj
+comment4.target=void\ removeInValidInputObserver(IInValidInputObserver)
+comment5.params=inputChar
+comment5.target=void\ updateUserInput(java.lang.String)
+comment6.params=
+comment6.target=void\ validateAndNotify()
+comment7.params=validInput
+comment7.target=void\ notifyObservers(boolean)
+comment8.params=
+comment8.target=void\ notifyObserversOnValidInput()
+comment9.params=
+comment9.target=void\ notifyObserversOnInValidInput()
+numComments=11

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HasLetters()
+comment1.params=newhangmanstate
+comment1.target=void\ setHangmanState(HangmanState)
+comment2.params=ctr\ flag\ word
+comment2.target=void\ count(int,\ boolean,\ java.lang.String)
+comment3.params=
+comment3.target=void\ wingame()
+comment4.params=
+comment4.target=void\ losegame()
+numComments=5

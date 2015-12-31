@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=observer
+comment0.target=void\ registerValidInputObserver(IValidInputObserver)
+comment1.params=observer
+comment1.target=void\ registerInValidInputObserver(IInValidInputObserver)
+comment2.params=observer
+comment2.target=void\ removeValidInputObserver(IValidInputObserver)
+comment3.params=observer
+comment3.target=void\ removeInValidInputObserver(IInValidInputObserver)
+comment4.params=validInput
+comment4.target=void\ notifyObservers(boolean)
+numComments=5

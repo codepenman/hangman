@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=observer
+comment0.target=void\ registerScoreBoardObserver(IScoreBoardObserver)
+comment1.params=hintAsked
+comment1.target=void\ notifyObservers(boolean)
+numComments=2

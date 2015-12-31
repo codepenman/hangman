@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=alphabetSubject
+comment0.target=S(Alphabet)
+comment1.params=
+comment1.target=java.lang.String\ getAlphabet()
+comment2.params=nextHandler
+comment2.target=void\ setSuccessor(IInputHandler)
+comment3.params=alphabet
+comment3.target=void\ handleKeyPress(java.lang.String)
+comment4.params=x\ y
+comment4.target=void\ handleMouseClick(int,\ int)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+comment7.params=
+comment7.target=void\ setAlphabet()
+numComments=8

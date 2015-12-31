@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=subject\ word
+comment0.target=Hint(Alphabet,\ IWord)
+comment1.params=observer
+comment1.target=void\ registerScoreBoardObserver(IScoreBoardObserver)
+comment2.params=hintAsked
+comment2.target=void\ notifyObservers(boolean)
+comment3.params=
+comment3.target=void\ notifyObserversOnHintAsked()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ validInput()
+comment6.params=
+comment6.target=void\ displayHint()
+comment7.params=
+comment7.target=greenfoot.Actor\ getGenericActor()
+comment8.params=alphabet\ color
+comment8.target=greenfoot.GreenfootImage\ getLetterImage(java.lang.String,\ java.awt.Color)
+numComments=9

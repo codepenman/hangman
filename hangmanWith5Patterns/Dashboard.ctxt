@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=subject\ word
+comment0.target=Dashboard(Alphabet,\ IWord)
+comment0.text=public\ Dashboard(Alphabet\ alpha)\ \ \ \ {\n\ \ \ \ \ \ \ \ super(alpha);\n}
+comment1.params=word
+comment1.target=void\ setWord(IWord)
+comment2.params=
+comment2.target=void\ paint()
+comment3.params=
+comment3.target=void\ validInput()
+comment4.params=letter
+comment4.target=void\ update(java.lang.String)
+comment5.params=
+comment5.target=void\ clear()
+comment6.params=iAlphabet\ x\ y
+comment6.target=void\ paintAlphabet(java.lang.String,\ int,\ int)
+comment7.params=
+comment7.target=greenfoot.Actor\ getGenericActor()
+comment8.params=alphabet\ color
+comment8.target=greenfoot.GreenfootImage\ getLetterImage(java.lang.String,\ java.awt.Color)
+numComments=9

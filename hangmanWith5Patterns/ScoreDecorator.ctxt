@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=newScore
+comment0.target=ScoreDecorator(IScoreCalculator)
+comment1.params=
+comment1.target=int\ getScore()
+numComments=2

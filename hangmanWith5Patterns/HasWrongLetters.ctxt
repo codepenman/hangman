@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=newhasletters
+comment0.target=HasWrongLetters(HasLetters)
+comment1.params=
+comment1.target=void\ wingame()
+comment2.params=
+comment2.target=void\ losegame()
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=alphabetSubject\ hintSubject\ word
+comment0.target=ScoreBoard(Alphabet,\ Hint,\ IWord)
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ ScoreBoard\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ hintAsked()
+comment3.params=
+comment3.target=void\ validInput()
+comment4.params=
+comment4.target=void\ paintScore()
+comment5.params=str
+comment5.target=void\ setLabel(java.lang.String)
+comment6.params=
+comment6.target=greenfoot.Actor\ getGenericActor()
+numComments=7

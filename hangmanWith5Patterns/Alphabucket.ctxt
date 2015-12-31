@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=alphabetSubject
+comment0.target=Alphabucket(Alphabet)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Alphabucket\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ repaint()
+comment3.params=iAlphabet
+comment3.target=void\ addAlphabet(IAlphabet)
+comment4.params=alphabet
+comment4.target=void\ removeAlphabet(java.lang.String)
+comment5.params=
+comment5.target=void\ inValidInput()
+comment6.params=
+comment6.target=void\ validInput()
+comment7.params=iAlphabet
+comment7.target=void\ paintAlphabet(IAlphabet)
+numComments=8
